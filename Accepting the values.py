@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  4 16:18:43 2022
-
-@author: amitprajapati
-"""
 
 #amit prajapati
 
